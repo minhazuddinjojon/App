@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.VangtiChai" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/teal</item>
+        <item name="colorPrimaryDark">@color/teal_dark</item>
+        <item name="colorAccent">@color/teal</item>
+    </style>
+</resources>
